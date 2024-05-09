@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../bso_xx/bso/.idea/bso.iml" filepath="$PROJECT_DIR$/../../bso_xx/bso/.idea/bso.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pui_200.iml" filepath="$PROJECT_DIR$/.idea/pui_200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../viewer_200_xx/view_200/.idea/view_200.iml" filepath="$PROJECT_DIR$/../../viewer_200_xx/view_200/.idea/view_200.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../view_mem/.idea/view_mem.iml" filepath="$PROJECT_DIR$/../../view_mem/.idea/view_mem.iml" />
     </modules>
   </component>
 </project>
