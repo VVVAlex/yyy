@@ -47,7 +47,7 @@ class BtnStart(ctk.CTkFrame):
             master=self,
             image=self.root.im_korabl,
             text=self.root.START,
-            width=130,
+            width=131,
             text_color=("gray10", "gray90"),
             border_width=2,
             corner_radius=10,
